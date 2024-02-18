@@ -1,5 +1,0 @@
-To get the dataset used in this code, go to the link below and download the zip file
-
-Link :
-
-https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2019.zip
